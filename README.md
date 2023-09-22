@@ -1,2 +1,1 @@
-# vechain-crowdfund-sample
-Crowdfund Sample for VeChain
+06b232d4976470431997cdcd099e3d6e8d050210
